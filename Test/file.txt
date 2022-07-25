@@ -1,0 +1,1 @@
+abcdefg This is java FileOutput Stream Sample. 
